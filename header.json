@@ -1,5 +1,5 @@
 {
-"name" : "ここに難易度表の名前",
-"symbol" : "ここにシンボル",
-"data_url" : "ここにJSONのURL"
+"name" : "絶難易度表",
+"symbol" : "絶",
+"data_url" : "https://script.google.com/macros/s/AKfycbwhSbi-ZnBbcdsrDHk2PZO7xlGS3F5EKfkIh3zqAVjsL39H3C74rx3XyAQrFCjieuo/exec"
 }
